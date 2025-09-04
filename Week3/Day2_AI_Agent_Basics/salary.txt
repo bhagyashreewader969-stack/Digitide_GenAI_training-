@@ -1,0 +1,5 @@
+Salary Structure Guide
+- Base Pay: Your fixed monthly salary.
+- Annual Salary: Calculated as monthly salary × 12.
+- Deductions: Include taxes, provident fund (PF), professional tax, and other statutory deductions.
+- Net Pay (Take-Home): Gross monthly salary minus deductions.
