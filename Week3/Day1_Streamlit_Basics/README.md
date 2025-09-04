@@ -1,16 +1,16 @@
-# LoanLab — Advanced Loan Calculator (Combined)
+# Streamlit Hugging Face Chat (No API Keys)
 
-Features:
-- Multiple loan comparison (1-3 loans)
-- Variable interest segments
-- Hover animations and dark mode toggle
-- EMI breakdown pie chart, balance comparison plot
-- Progress bar, milestones, risk alerts
-- NPV & approximate IRR calculation
-- Stress test (+2% scenario)
-- Export to Excel and PDF with chart
-- Shareable query string generator
+A lightweight chatbot built with Streamlit and Hugging Face’s `distilgpt2` model.  
+Runs locally or on Streamlit Cloud without needing API keys.
 
-Run:
+## 🚀 Run locally
+```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## 🌐 Deploy on Streamlit Cloud
+1. Push this repo to GitHub.  
+2. Go to [Streamlit Cloud](https://streamlit.io/cloud), click **New app**, select your repo.  
+3. Set the main file to `app.py`.  
+4. Deploy 🎉
