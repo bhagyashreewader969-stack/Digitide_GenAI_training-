@@ -1,0 +1,5 @@
+Example 1: "I am happy today." → Positive
+Example 2: "I am sad today." → Negative
+Example 3: "The weather is beautiful." → Positive
+
+Now classify: "{sentence}"
